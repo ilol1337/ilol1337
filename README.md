@@ -1,8 +1,8 @@
-```py
+```python
 > whoami
 ```
 
-```py
+```c#
 ----------------
     Alias: ILOL/IL
   Languages: Python, C#
