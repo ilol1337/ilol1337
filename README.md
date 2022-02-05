@@ -1,10 +1,7 @@
-```python
-class ilol:
+```c#
+----------------
 
-    def __init__(self,name,location,city,age):
-        self.name = 'ILoL'
-        self.location = 'Denmark'
-        self.city = 'Aalborg'
-        self.age = 14
+Alias : IL/ILOL
+Languages : Python, C#
 ```
-Contact me: ilol#8662
+Contact me: ilol#8662/927013129941041184
